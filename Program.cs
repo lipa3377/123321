@@ -1,3 +1,4 @@
+
 ﻿while (true) {
 Console.WriteLine("Hello, World!");
 Console.WriteLine("This is a simple C# program.");
@@ -12,3 +13,8 @@ Console.WriteLine("This is a simple C# program.");
 		Console.Write(randomChar);
 	}
 }
+
+﻿Console.WriteLine("Hello, World!");
+Console.WriteLine("This is a simple C# program.");
+Console.WriteLine("very simple.");
+
